@@ -38,7 +38,9 @@ I follow steps below:
 
 
 * Create a heat map that displays the humidity for every city from Part 1, as in the following image:
+<img width="977" alt="Screen Shot 2022-08-14 at 11 54 29 AM (1)" src="https://user-images.githubusercontent.com/108036268/201575874-d6fa86c9-7bec-4cbf-baa9-f024d11c3d91.png">
 
+<img width="978" alt="Screen Shot 2022-08-14 at 11 53 46 AM" src="https://user-images.githubusercontent.com/108036268/201576032-96963283-fa1f-4954-816a-20a9d7236c32.png">
 
 Narrow down the DataFrame to find an ideal weather condition as below:
 
@@ -52,3 +54,4 @@ Narrow down the DataFrame to find an ideal weather condition as below:
 
 I use Google Places API to find the first hotel for each city located within 5,000 meters of my coordinates.
 I Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
+<img width="979" alt="Screen Shot 2022-08-14 at 11 54 03 AM" src="https://user-images.githubusercontent.com/108036268/201575938-613e9d68-fafb-47c8-a860-2291bacef54e.png">
